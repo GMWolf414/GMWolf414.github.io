@@ -2,7 +2,7 @@
 
 const CONFIG = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (This is the only required config)
+    username: 'GMWolf414', // Your GitHub org/user name. (This is the only required config)
   },
   /**
    * If you are deploying to https://<USERNAME>.github.io/, for example your repository is at https://github.com/arifszn/arifszn.github.io, set base to '/'.
@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['arifszn/gitprofile', 'arifszn/pandora'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['GMWolf414/gitprofile', 'GMWolf414/pandora'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
@@ -164,7 +164,7 @@ const CONFIG = {
   // Track visitor interaction and behavior. https://www.hotjar.com
   hotjar: { id: '', snippetVersion: 6 },
   themeConfig: {
-    defaultTheme: 'lofi',
+    defaultTheme: 'retro',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
@@ -220,7 +220,7 @@ const CONFIG = {
 
   // Optional Footer. Supports plain text or HTML.
   footer: `Made with <a 
-      class="text-primary" href="https://github.com/arifszn/gitprofile"
+      class="text-primary" href="https://github.com/GMWolf414/gitprofile"
       target="_blank"
       rel="noreferrer"
     >GitProfile</a> and ❤️`,
