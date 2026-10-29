@@ -33,20 +33,20 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'SaaS-Insight AI',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'SaaS-Insight AI to inteligentna aplikacja analityczna stworzona w Pythonie z wykorzystaniem Streamlit, umożliwiająca analizę danych sprzedażowych i wizualizację kluczowych wskaźników biznesowych. Dzięki integracji z modelami AI (Groq, OpenAI i Gemini) użytkownik może zadawać pytania dotyczące sprzedaży oraz automatycznie generować raporty biznesowe, analizy SWOT i rekomendacje strategiczne. Aplikacja obsługuje zarówno własne pliki CSV, jak i dane demonstracyjne.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://github.com/GMWolf414/GMWolf414.github.io/blob/main/public/saas-insight-ai.png',
+          link: 'https://saasai.streamlit.app/',
         },
         {
-          title: 'Project Name',
+          title: 'BotDC',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'BotDc to bot Discord stworzony w języku Python z wykorzystaniem biblioteki discord.py, umożliwiający automatyzację zarządzania serwerami i obsługę komend użytkowników. Aplikacja posiada modułową strukturę opartą na rozszerzeniach (Cogs), obsługuje komendy Slash oraz pozwala administratorom na indywidualne ustawianie prefiksów poleceń dla każdego serwera. Projekt powstał w celach edukacyjnych, rozwijając umiejętności programowania asynchronicznego i integracji z Discord API.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://github.com/GMWolf414/GMWolf414.github.io/blob/main/public/botdc.png',
+          link: 'https://github.com/GMWolf414/BotDc.git',
         },
       ],
     },
@@ -113,7 +113,7 @@ const CONFIG = {
   certifications: [
     {
       name: 'Technik',
-      body: 'Lorem ipsum dolor sit amet',
+      body: 'Certyfikat technika programisty potwierdzony certyfikatami INF.03 oraz INF.04',
       year: 'March 2019',
       link: 'https://example.com',
     },
@@ -122,14 +122,14 @@ const CONFIG = {
     {
       institution: 'Zespół Szkół Technicznych im. Marii Skłodowskiej-Curie',
       degree: 'Technik Programista',
-      from: '2015',
-      to: '2019',
+      from: '2019',
+      to: '2024',
     },
     {
       institution: 'Politechika Lubelska',
       degree: '',
-      from: '2019',
-      to: '2024',
+      from: '2024',
+      to: '2028',
     },
   ],
   publications: [
