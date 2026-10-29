@@ -121,13 +121,13 @@ const CONFIG = {
   educations: [
     {
       institution: 'Zespół Szkół Technicznych im. Marii Skłodowskiej-Curie',
-      degree: 'Degree',
+      degree: 'Technik Programista',
       from: '2015',
       to: '2019',
     },
     {
       institution: 'Politechika Lubelska',
-      degree: 'Technik Programista',
+      degree: '',
       from: '2019',
       to: '2024',
     },
