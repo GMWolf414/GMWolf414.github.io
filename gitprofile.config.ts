@@ -81,18 +81,16 @@ const CONFIG = {
   skills: [
     'Python',
     'PHP',
-    'Laravel',
     'JavaScript',
     'React.js',
     'Node.js',
-    'Nest.js',
     'MySQL',
     'Git',
     'Docker',
-    'PHPUnit',
     'CSS',
-    'Antd',
     'Tailwind',
+    'C++',
+    'C#',
   ],
   experiences: [
     {
