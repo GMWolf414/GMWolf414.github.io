@@ -37,7 +37,7 @@ const CONFIG = {
           description:
             'SaaS-Insight AI to inteligentna aplikacja analityczna stworzona w Pythonie z wykorzystaniem Streamlit, umożliwiająca analizę danych sprzedażowych i wizualizację kluczowych wskaźników biznesowych. Dzięki integracji z modelami AI (Groq, OpenAI i Gemini) użytkownik może zadawać pytania dotyczące sprzedaży oraz automatycznie generować raporty biznesowe, analizy SWOT i rekomendacje strategiczne. Aplikacja obsługuje zarówno własne pliki CSV, jak i dane demonstracyjne.',
           imageUrl:
-            'https://github.com/GMWolf414/GMWolf414.github.io/blob/4db8d689d593e423b11fc524065b44577d1e1994/public/saas-insight-ai.png',
+            '/saas-insight-ai.png',
           link: 'https://saasai.streamlit.app/',
         },
         {
@@ -45,7 +45,7 @@ const CONFIG = {
           description:
             'BotDc to bot Discord stworzony w języku Python z wykorzystaniem biblioteki discord.py, umożliwiający automatyzację zarządzania serwerami i obsługę komend użytkowników. Aplikacja posiada modułową strukturę opartą na rozszerzeniach (Cogs), obsługuje komendy Slash oraz pozwala administratorom na indywidualne ustawianie prefiksów poleceń dla każdego serwera. Projekt powstał w celach edukacyjnych, rozwijając umiejętności programowania asynchronicznego i integracji z Discord API.',
           imageUrl:
-            'https://github.com/GMWolf414/GMWolf414.github.io/blob/4db8d689d593e423b11fc524065b44577d1e1994/public/botdc.png',
+            '/botdc.png',
           link: 'https://github.com/GMWolf414/BotDc.git',
         },
       ],
